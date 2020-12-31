@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="background_image">Background Image of  layout</string>
+    <string name="India">India</string>
+    <string name="icon">icon</string>
+    <string name="country_wise_cases">Country-Wise Cases</string>
+    <string name="state_wise_cases">State-Wise Cases</string>
+    <string name="activeCasesText">Active\n\n</string>
+    <string name="recoveredCasesText">Recovered\n\n</string>
+    <string name="deathsText">Deaths\n\n</string>
+    <string name="affectedText">Affected\n\n</string>
+    <string name="new_cases_text">New Cases\n\n</string>
+    <string name="new_deaths_text">New Deaths\n\n</string>
+    <string name="critical_cases_text">Critical\n\n</string>
+</resources>
